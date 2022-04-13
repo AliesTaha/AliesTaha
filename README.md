@@ -16,6 +16,6 @@ git comm
 
 `System.out.println("Hello World");`
 
-I need to highlight these very ==important== words
+[Harvard CS50](https://cs50.harvard.edu/x/2022/psets/0/scratch/) is the first course I'm doing
 
 **Bold Letters** and these are *italicized*
