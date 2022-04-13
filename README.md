@@ -4,7 +4,15 @@
 
 >Per Aspera Ad Astra
 
-This is my first repository ever, how cool is that!
+Some basic Git commands are:
+
+`
+git status
+git add
+git comm
+`
+
+`System.out.println("Hello World");
 
 I need to highlight these very ==important== words
 
