@@ -7,12 +7,12 @@
 Some basic Git commands are:
 
 `
-git status
-git add
-git comm
+git status \n
+git add \n
+git comm \n
 `
 
-`System.out.println("Hello World");
+`System.out.println("Hello World"); `
 
 I need to highlight these very ==important== words
 
