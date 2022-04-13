@@ -7,8 +7,10 @@
 Some basic Git commands are:
 
 `
-git status \n
-git add \n
+git status
+
+git add 
+
 git comm \n
 `
 
