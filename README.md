@@ -6,14 +6,14 @@
 
 Some basic Git commands are:
 
-``
+```
 git status
 
 git add 
 
 git comm
 
-``
+```
 
 `System.out.println("Hello World");`
 
