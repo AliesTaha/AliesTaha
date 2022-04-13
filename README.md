@@ -11,11 +11,11 @@ git status
 
 git add 
 
-git comm \n
+git comm
 
 ``
 
-`System.out.println("Hello World"); `
+`System.out.println("Hello World");`
 
 I need to highlight these very ==important== words
 
