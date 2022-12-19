@@ -30,15 +30,6 @@ most used s-s-sociaw things >~< xoxox</p>
 </div>
 <br>
 <div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
-<div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
-</div>
-<hr>
-</div>
-</div>
-    </center>
-</body>
 
 ## <h3 align="left">GitHub Stats</h3>
 
@@ -51,6 +42,8 @@ most used s-s-sociaw things >~< xoxox</p>
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=AliesTaha&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+  
+<h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h2>
 
 
 
