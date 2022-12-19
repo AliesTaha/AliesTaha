@@ -19,6 +19,9 @@ I'm Ali Taha, a Computer Engineering Student at University of Waterloo. From Pyt
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+  
+  ### Technologies
+
 
 ###Languages
 
