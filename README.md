@@ -9,17 +9,6 @@ I'm Ali Taha, a Computer Engineering Student at University of Waterloo. From Pyt
   <p align="center"><img src="https://img.shields.io/badge/Java%20-%2331A8FF.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/C/C++%20-%2343853D.svg?&style=for-the-badge&logo=c++&logoColor=white"/> <img src="https://img.shields.io/badge/Python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
   
-  ### Languages
-
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-  
   ### Technologies
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
