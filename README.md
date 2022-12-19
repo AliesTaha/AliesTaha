@@ -2,10 +2,8 @@
 
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
 
-<img src="https://github.com/PluckyPrecious/PluckyPrecious/blob/9565cf79245d4787c6fcade1bda5ceb011d287cd/F25AC92B-312E-4CD7-A884-AD0FDEC99A80.jpeg" alt="banner that says Kelechi Precious Nwachukwu - code newbie always. content curator. contributing for good alongside an oil paint illustration of Kelechi"> 
-I'm Kelechi, a Project Manager with Finance background & love for anything Tech. Python is my first language, exploring the front & back-end of the web, can't be caught in the middle.:wink: Open-source documentation & translation contributor, big team player. Igbo native, cartoon freak, chocolate, good food, and karaoke.
-
-
+I'm Ali Taha, a Computer Engineering Student at University of Waterloo. From Python to C/C++ to Java to HTML/CSS, I like to explore everything tech. Currently, I am working on learning Front-End and Back-End devolopment, and hoping to land a role as a Full-Stack Developer. In the near future, I would like to implement my own website. 
+  
 ## More About Me:woman:
 
 :purple_heart: Kind people are my kinda people
