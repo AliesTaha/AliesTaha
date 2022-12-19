@@ -9,7 +9,6 @@ I'm Ali Taha, a Computer Engineering Student at University of Waterloo. From Pyt
  <br>
 <p>
   <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
   </div>
 </div>
 <div>
@@ -21,7 +20,6 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <br>
 <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮: ~ 📝</h2>
   <div align="center">
-<img src="https://imgur.com/gallery/2H6pBHb" align="right">
   </div>
 <br>
 </p>
