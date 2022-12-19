@@ -28,8 +28,6 @@ I'm Ali Taha, a Computer Engineering Student at University of Waterloo. From Pyt
   </div>
 </div>
 <div>
-  <br>
-<br><br>
 Im also currently working on writing my own personal website. Apart from technical skills, I have experience leading the programming team of my FIRST Robotics High School Team and am involved in several design teams at the university.
 </p>
 <br>
