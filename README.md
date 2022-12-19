@@ -16,7 +16,7 @@ I'm Ali Taha, a Computer Engineering Student at University of Waterloo. From Pyt
   
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=PluckyPrecious&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=AliesTaha&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 
 
