@@ -13,7 +13,7 @@ I'm Ali Taha, a Computer Engineering Student at University of Waterloo. From Pyt
 </div>
 <div>
   <br>
-<p align="center"><img src="https://img.shields.io/badge/Java%%20-%2331A8FF.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+<p align="center"><img src="https://img.shields.io/badge/Java%20-%2331A8FF.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
  <img src="https://img.shields.io/badge/C/C++%20-%2343853D.svg?&style=for-the-badge&logo=c++&logoColor=white"/> <img src="https://img.shields.io/badge/Python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
 Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
 </p>
