@@ -26,7 +26,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <br>
 <p align="center">Socials<br>
 >~<</p>
-<p align="center"><a href="https://www.linkedin.com/in/aliestaha/" target="_blank"> <img src="https://img.shields.io/badge/AliTaha%20-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/aliestaha/" target="_blank"> <img src="https://img.shields.io/badge/AliTaha%20-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a><a href="https://twitter.com/AliesTaha" target="_blank"> <img src="https://img.shields.io/badge/AliTaha%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=pink"/></a></p>
 </div>
 <br>
 <div>
