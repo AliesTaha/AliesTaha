@@ -19,14 +19,14 @@ I'm Ali Taha, a Computer Engineering Student at University of Waterloo. From Pyt
 Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
 </p>
 <br>
-<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮: ~ 📝</h2>
   <div align="center">
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
   </div>
 <br>
 <p align="center">Socials<br>
 >~<</p>
-<p align="center"><a href="https://twitter.com/AliesTaha" target="_blank"> <img src="https://img.shields.io/badge/AliTaha%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/aliestaha/" target="_blank"> <img src="https://img.shields.io/badge/AliTaha%20-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a></p>
 </div>
 <br>
 <div>
