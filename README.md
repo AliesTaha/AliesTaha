@@ -6,7 +6,6 @@ I'm Ali Taha, a Computer Engineering Student at University of Waterloo. From Pyt
   
 ## More About Me 🧑‍🎓:
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
- <br>
 <p>
   <div align="center">
   </div>
