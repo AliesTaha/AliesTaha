@@ -4,7 +4,7 @@
 
 I'm Ali Taha, a Computer Engineering Student at University of Waterloo. From Python to C/C++ to Java to HTML/CSS, I like to explore everything tech. Currently, I am working on learning Front-End and Back-End devolopment, and hoping to land a role as a Full-Stack Developer. In the near future, I would like to implement my own website. 
   
-## More About Me:woman:
+## More About Me:man:
 
 :purple_heart: Kind people are my kinda people
 
