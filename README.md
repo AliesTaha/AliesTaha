@@ -13,10 +13,10 @@ I'm Ali Taha, a Computer Engineering Student at University of Waterloo. From Pyt
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![HTML](https://img.shields.io/badge/-TypeScript-000?&logo=HTML)
+![HTML](https://img.shields.io/badge/-TypeScript-000?&logo=HTML5)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![CSS](https://img.shields.io/badge/-Swift-000?&logo=CSS)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
   
   ### Technologies
 
