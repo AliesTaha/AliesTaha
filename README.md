@@ -20,10 +20,8 @@ I'm Ali Taha, a Computer Engineering Student at University of Waterloo. From Pyt
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
   
-  ### Technologies
+  ### Languages
 
-
-###Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
