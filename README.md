@@ -15,7 +15,7 @@ I'm Ali Taha, a Computer Engineering Student at University of Waterloo. From Pyt
   
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/AliesTaha/portfoliowebsite)
 [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
 [![](https://img.shields.io/badge/-📝%20Galactic%20Capitalism-000)](https://github.com/AliesTaha/Space-Invaders-Game)
 [![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
