@@ -4,9 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Ali+Taha;)](https://git.io/typing-svg)
 
-I am a Computer Engineering student at University of Waterloo.<br>
+I am a Computer Engineering student at University of Waterloo.
+  
 From Python to C, from Java to C++ to HTML and CSS, I like to explore everything tech.
+  
 I am currently working on improving my <a href="https://aliestaha.github.io/">personal website</a>
+  
 I am also looking to land an internship this spring! Feel free to reach out to me by <a href="mailto:ali.taha@uwaterloo.ca">email</a>, or on my <a href="https://aliestasha.com">LinkedIn</a>. 
   
 ## More About Me 🧑‍🎓:
