@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Ali+Taha;)](https://git.io/typing-svg)
 <p>I am a Computer Engineering student at University of Waterloo.<\p>
 <p>From Python to C, from Java to C++ to HTML and CSS, I like to explore everything tech.<\p>
-<p>I am currently working on improving my <a href="https://aliestaha.github.io/">personal website<\a><\p>
+<p>I am currently working on improving my <a href="https://aliestaha.github.io/">personal website<\a>.<\p>
   
   +I+am+a+Computer+Engineering+student+at+University+of+Waterloo+.;From+Python+to+C+/+C\+\++to+Java+to+HTML/CSS+,+I+like+to+explore+everything+tech.;+I+am+currently+working+on+improving+my+own+personal+wesbite.;I+am+also+looking+to+land+an+internship+this+spring!;Feel+free+to+reach+out
   
