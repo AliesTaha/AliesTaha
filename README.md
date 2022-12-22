@@ -2,8 +2,7 @@
 
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Ali+Taha;)](https://git.io/typing-svg)
-I'm Ali Taha, a Computer Engineering Student at University of Waterloo. From Python to C/C++ to Java to HTML/CSS, I like to explore everything tech. Currently, I am working on learning Front-End and Back-End devolopment, and hoping to land a role as a Full-Stack Developer. In the near future, I would like to implement my own website. 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Ali+Taha;+I+am+a+Computer+Engineering+student+at+University+of+Waterloo+.;From+Python+to+C+/+C\+\++to+Java+to+HTML/CSS+,+I+like+to+explore+everything+tech.;+I+am+currently+working+on+improving+my+own+personal+wesbite.;I+am+also+looking+to+land+an+internship+this+spring!;Feel+free+to+reach+out)](https://git.io/typing-svg)
   
 ## More About Me 🧑‍🎓:
 <h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
