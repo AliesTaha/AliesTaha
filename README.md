@@ -22,7 +22,7 @@ I am also looking to land an internship this spring! Feel free to reach out to m
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <br>
   
-<img src="https://img.shields.io/badge/C++%20-%2343853D.svg?&style=for-the-badge&logo=c++&logoColor=white"/> <img src="https://img.shields.io/badge/Python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/C++%20-%2343853D.svg?&style=for-the-badge&logo=c++&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
 <img src=https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
   
