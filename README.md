@@ -72,6 +72,7 @@ Im also currently working on writing my own personal website. Apart from technic
   
   
 <h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h2>
+[![GitHub Streak](https://streak-stats.demolab.com/?AliesTaha=DenverCoder1)](https://git.io/streak-stats)
 
 
 
