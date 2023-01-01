@@ -67,7 +67,7 @@ Im also currently working on writing my own personal website. Apart from technic
   
   
   
-## <h3 align="left">GitHub Stats</h3>
+## <h3 align="center">GitHub Stats</h3>
 
 <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/apiusername=AliesTaha&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
