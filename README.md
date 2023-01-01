@@ -69,7 +69,8 @@ Im also currently working on writing my own personal website. Apart from technic
   
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=AliesTaha&theme=discord&no-frame=true&no-bg=false&margin-w=3)
-  
+  <div align="center">
+![](https://github-profile-trophy.vercel.app/?username=AliesTaha&theme=discord&no-frame=true&no-bg=false&margin-w=4)
+  </div>
   
 <h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h2>
