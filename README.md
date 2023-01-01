@@ -1,5 +1,8 @@
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
+<div align="center">
+<a href="https://alitaha.ca"> <img src="https://user-images.githubusercontent.com/103478551/210186056-1a80f910-309b-41a3-b1ad-8f9eb436fcb6.png" width="500" height="100"> </a>
+  
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Ali+Taha;)](https://git.io/typing-svg)
