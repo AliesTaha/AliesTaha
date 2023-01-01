@@ -66,13 +66,6 @@ Im also currently working on writing my own personal website. Apart from technic
 <a href="https://www.alitaha.ca/"><img align="center" height="137px" src="https://github-readme-stats.vercel.app/api?username=AliesTaha&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliesTaha&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
   
   
-  
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/apiusername=AliesTaha&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliesTaha&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
-  
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=AliesTaha&theme=discord&no-frame=true&no-bg=false&margin-w=4)
