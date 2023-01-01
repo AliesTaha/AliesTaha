@@ -2,10 +2,6 @@
 <a href="https://alitaha.ca"> <img src="https://user-images.githubusercontent.com/103478551/210186056-1a80f910-309b-41a3-b1ad-8f9eb436fcb6.png"></a>
 </div>
 
-<iframe src="https://alitaha.ca" frameborder="0" width="100%" height="500">
-  <p>Your</p>
-</iframe>
-
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Ali+Taha;)](https://git.io/typing-svg)
