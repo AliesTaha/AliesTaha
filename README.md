@@ -40,12 +40,11 @@ I am also looking to land an internship this spring! Feel free to reach out to m
 ### Full Stack Projects
 
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/aliestaha/aliestaha.github.io)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
+[![](https://img.shields.io/badge/-🦠%Java‑19%20ShoppingDatabase-000)](https://github.com/AliesTaha/ShoppingDatabase)
 [![](https://img.shields.io/badge/-📝%20Galactic%20Capitalism-000)](https://github.com/AliesTaha/Space-Invaders-Game)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+[![](https://img.shields.io/badge/-🔬%20RPG-000)](https://github.com/AliesTaha/RPG-Game)
+[![](https://img.shields.io/badge/-🛰%20LikeIt%20Full%20Stack%20Web%20App-000)](https://github.com/AliesTaha/likeit)
+[![](https://img.shields.io/badge/-🔊%20Hack%20The%20North:%20Dog%20Sitter-000)](https://github.com/AliesTaha/DogSitter)
 
 <p>
   <div align="center">
