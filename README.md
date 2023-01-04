@@ -15,7 +15,7 @@ I am currently working on improving my <a href="https://aliestaha.github.io/">pe
 I am also looking to land an internship this spring! Feel free to reach out to me by <a href="mailto:ali.taha@uwaterloo.ca">email</a>, or on my <a href="https://aliestasha.com">LinkedIn</a>. 
   
 ## More About Me 🧑‍🎓:
-<h2>~Languages~</h2>
+### Languages
 <p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
