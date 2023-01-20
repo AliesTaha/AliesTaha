@@ -65,7 +65,7 @@ Im also currently working on writing my own personal website. Apart from technic
 ## <h3 align="center">GitHub Stats</h3>
 
   <div align="center">
-  <a href="https://www.alitaha.ca/"> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliestaha&layout=compact" /></a>
+  <a href="https://www.alitaha.ca/"> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliestaha&layout=compact&theme=dark" /></a>
   <a href="https://alitaha.ca"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=aliestaha&show_icons=true&theme=radical"/></a>
   </div>
   
