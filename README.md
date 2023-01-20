@@ -54,7 +54,7 @@ I am also looking to land an internship this spring! Feel free to reach out to m
 Im also currently working on writing my own personal website. Apart from technical skills, I have experience leading the programming team of my FIRST Robotics High School Team and am involved in several design teams at the university.
 </p>
 <br>
-<h2 align="center">Contact Me: </h2>
+<h2 align="">Contact Me: </h2>
   <div align="center">
   </div>
 <br>
@@ -62,7 +62,7 @@ Im also currently working on writing my own personal website. Apart from technic
 <p align="center"><a href="https://www.linkedin.com/in/aliestaha/" target="_blank"> <img src="https://img.shields.io/badge/AliTaha%20-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a><a href="https://twitter.com/AliesTaha" target="_blank"> <img src="https://img.shields.io/badge/AliTaha%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a></p>
 </div>
     
-## <h3 align="center">GitHub Stats</h3>
+## <h3 align="">GitHub Stats</h3>
 
   <div align="center">
   <a href="https://www.alitaha.ca/"> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliestaha&layout=compact&theme=dark" /></a>
