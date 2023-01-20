@@ -54,7 +54,7 @@ I am also looking to land an internship this spring! Feel free to reach out to m
 Im also currently working on writing my own personal website. Apart from technical skills, I have experience leading the programming team of my FIRST Robotics High School Team and am involved in several design teams at the university.
 </p>
 <br>
-<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮: ~ 📝</h2>
+<h2 align="center">Contact Me: </h2>
   <div align="center">
   </div>
 <br>
