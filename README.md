@@ -39,7 +39,7 @@ I am also looking to land an internship this spring! Feel free to reach out to m
   
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/aliestaha/aliestaha.github.io)
+[![](https://img.shields.io/badge/-<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Hundred%20Points.png?raw=true">%20My%20Website-000)](https://github.com/aliestaha/aliestaha.github.io)
 [![](https://img.shields.io/badge/-🦠%Java‑19%20ShoppingDatabase-000)](https://github.com/AliesTaha/ShoppingDatabase)
 [![](https://img.shields.io/badge/-📝%20Galactic%20Capitalism-000)](https://github.com/AliesTaha/Space-Invaders-Game)
 [![](https://img.shields.io/badge/-🔬%20RPG-000)](https://github.com/AliesTaha/RPG-Game)
