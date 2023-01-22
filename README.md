@@ -38,6 +38,7 @@ I am also looking to land an internship this spring! Feel free to reach out to m
 </p>  
   
 ### Full Stack Projects
+
 <style>
   .img-center {
     display: flex;
@@ -51,6 +52,7 @@ I am also looking to land an internship this spring! Feel free to reach out to m
     margin-top: 0.5em;
   }
 </style>
+
 <ul>
   <li>
     <div class="img-center">
