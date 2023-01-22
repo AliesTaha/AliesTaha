@@ -62,17 +62,11 @@ Im also currently working on writing my own personal website. Apart from technic
 <p align="center"><a href="https://www.linkedin.com/in/aliestaha/" target="_blank"> <img src="https://img.shields.io/badge/AliTaha%20-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a><a href="https://twitter.com/AliesTaha" target="_blank"> <img src="https://img.shields.io/badge/AliTaha%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a></p>
 </div>
     
-## <h3 align="">GitHub Stats</h3>
+## <h3 align="">🏆GitHub Stats</h3>
 
   <div align="center">
   <a href="https://www.alitaha.ca/"> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliestaha&layout=compact&theme=dark" /></a>
   <a href="https://alitaha.ca"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=aliestaha&show_icons=true&theme=radical"/></a>
-  </div>
-  
-## 🏆 GitHub Trophies
-
-  <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AliesTaha&theme=discord&no-frame=true&no-bg=false&margin-w=4">
   </div>
   
 <h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h2>
