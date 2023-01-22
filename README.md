@@ -52,12 +52,12 @@ I am also looking to land an internship this spring! Feel free to reach out to m
      <a href="https://github.com/AliesTaha/RPG-Game">RPG Game<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Hundred%20Points.png?raw=true" width='30px'></a>
     <br>
 
-    <li>
-       <a href="https://github.com/AliesTaha/likeit">Like It: Full Stack Social Media Web App<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Hundred%20Points.png?raw=true" width='30px'></a>
-      <br>
+<li>
+<a href="https://github.com/AliesTaha/likeit">Like It: Full Stack Social Media Web App<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Hundred%20Points.png?raw=true" width='30px'></a>
+<br>
 
-      <li>
-         <a href="https://github.com/AliesTaha/DogSitter">Hack The North: Dog Sitter<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Hundred%20Points.png?raw=true" width='30px'></a>
+<li>
+<a href="https://github.com/AliesTaha/DogSitter">Hack The North: Dog Sitter<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Hundred%20Points.png?raw=true" width='30px'></a>
 
   
 <p>
