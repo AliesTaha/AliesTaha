@@ -38,6 +38,7 @@ I am also looking to land an internship this spring! Feel free to reach out to m
 </p>  
   
 ### Full Stack Projects
+
 <li> <a href="https://github.com/aliestaha/aliestaha.github.io"> My Portfolio Website <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png?raw=true" width='100px'></a>
 <br>
 <li>
