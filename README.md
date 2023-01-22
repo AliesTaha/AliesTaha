@@ -38,26 +38,26 @@ I am also looking to land an internship this spring! Feel free to reach out to m
 </p>  
   
 ### Full Stack Projects
-<li> <a href="https://github.com/aliestaha/aliestaha.github.io"> My Portfolio Website<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Hundred%20Points.png?raw=true" width='30px'></a>
+<li> <a href="https://github.com/aliestaha/aliestaha.github.io"> My Portfolio Website<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Hundred%20Points.png?raw=true" width='50px'></a>
 <br>
 <li>
-   <a href="https://github.com/AliesTaha/ShoppingDatabase">Java Database: Store Inventory<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People/Technologist.png?raw=true" width='30px'></a>
+   <a href="https://github.com/AliesTaha/ShoppingDatabase">Java Database: Store Inventory<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People/Technologist.png?raw=true" width='50px'></a>
 <br>
 
 <li>
-   <a href="https://github.com/AliesTaha/Space-Invaders-Game">Java Terminal Game: Galactic Capitalism <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People/Zombie.png?raw=true" width='30px'></a>
+   <a href="https://github.com/AliesTaha/Space-Invaders-Game">Java Terminal Game: Galactic Capitalism <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People/Zombie.png?raw=true" width='50px'></a>
   <br>
 
   <li>
-     <a href="https://github.com/AliesTaha/RPG-Game">RPG Game<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Alien%20Monster.png?raw=true" width='30px'></a>
+     <a href="https://github.com/AliesTaha/RPG-Game">RPG Game<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Alien%20Monster.png?raw=true" width='50px'></a>
     <br>
 
 <li>
-<a href="https://github.com/AliesTaha/likeit">Like It: Full Stack Social Media Web App<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People%20with%20activities/Woman%20and%20Man%20Holding%20Hands%20Medium%20Skin%20Tone.png?raw=true" width='30px'></a>
+<a href="https://github.com/AliesTaha/likeit">Like It: Full Stack Social Media Web App<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People%20with%20activities/Woman%20and%20Man%20Holding%20Hands%20Medium%20Skin%20Tone.png?raw=true" width='50px'></a>
 <br>
 
 <li>
-<a href="https://github.com/AliesTaha/DogSitter">Hack The North: Dog Sitter<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Animals/Dog.png?raw=true" width='30px'></a>
+<a href="https://github.com/AliesTaha/DogSitter">Hack The North: Dog Sitter<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Animals/Dog.png?raw=true" width='50px'></a>
 
   
 <p>
