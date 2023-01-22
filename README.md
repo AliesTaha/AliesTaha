@@ -58,49 +58,50 @@ I am also looking to land an internship this spring! Feel free to reach out to m
     <div class="img-center">
       <a href="https://github.com/aliestaha/aliestaha.github.io">
         <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png?raw=true" width='100px'>
-      </a>
     </div>
     <div class="subtitle">My Portfolio Website</div>
+    </a>
   </li>
   <li>
     <div class="img-center">
       <a href="https://github.com/AliesTaha/ShoppingDatabase">
         <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People/Technologist.png?raw=true" width='100px'>
-      </a>
     </div>
     <div class="subtitle">Java Database: Store Inventory</div>
+      </a>
   </li>
   <li>
     <div class="img-center">
       <a href="https://github.com/AliesTaha/Space-Invaders-Game">
         <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People/Zombie.png?raw=true" width='100px'>
-      </a>
     </div>
     <div class="subtitle">Java Terminal Game: Galactic Capitalism</div>
+      </a>
   </li>
   <li>
     <div class="img-center">
       <a href="https://github.com/AliesTaha/RPG-Game">
         <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Alien%20Monster.png?raw=true" width='100px'>
-      </a>
     </div>
     <div class="subtitle">RPG Game</div>
+      </a>
   </li>
   <li>
     <div class="img-center">
       <a href="https://github.com/AliesTaha/likeit">
         <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People%20with%20activities/Woman%20and%20Man%20Holding%20Hands%20Medium%20Skin%20Tone.png?raw=true" width='100px'>
-      </a>
     </div>
     <div class="subtitle">Like It: Full Stack Social Media Web App</div>
+      </a>
   </li>
   <li>
     <div class="img-center">
       <a href="https://github.com/AliesTaha/DogSitter">
         <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Animals/Dog.png?raw=true" width='100px'>
-         </a>
     </div>
     <div class="subtitle">Hack The North: Dog Sitter</div>
+      </a>
+    </li>
 
 <li> <a href="https://github.com/aliestaha/aliestaha.github.io"> My Portfolio Website <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png?raw=true" width='100px'></a>
 <br>
