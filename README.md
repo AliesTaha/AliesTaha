@@ -38,11 +38,17 @@ I am also looking to land an internship this spring! Feel free to reach out to m
 </p>  
   
 ### Full Stack Projects
-<li> <a href="https://github.com/aliestaha/aliestaha.github.io">My Portfolio Website<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Hundred%20Points.png?raw=true" width='30px'></a>
+<li> <a href="https://github.com/aliestaha/aliestaha.github.io"> My Portfolio Website<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Hundred%20Points.png?raw=true" width='30px'></a>
+<li>
 [![](https://img.shields.io/badge/-🦠%Java‑19%20ShoppingDatabase-000)](https://github.com/AliesTaha/ShoppingDatabase)
+
+<li>
 [![](https://img.shields.io/badge/-📝%20Galactic%20Capitalism-000)](https://github.com/AliesTaha/Space-Invaders-Game)
+  <li>
 [![](https://img.shields.io/badge/-🔬%20RPG-000)](https://github.com/AliesTaha/RPG-Game)
+    <li>
 [![](https://img.shields.io/badge/-🛰%20LikeIt%20Full%20Stack%20Web%20App-000)](https://github.com/AliesTaha/likeit)
+      <li>
 [![](https://img.shields.io/badge/-🔊%20Hack%20The%20North:%20Dog%20Sitter-000)](https://github.com/AliesTaha/DogSitter)
 
   
