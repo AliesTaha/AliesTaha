@@ -39,17 +39,25 @@ I am also looking to land an internship this spring! Feel free to reach out to m
   
 ### Full Stack Projects
 <li> <a href="https://github.com/aliestaha/aliestaha.github.io"> My Portfolio Website<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Hundred%20Points.png?raw=true" width='30px'></a>
+<br>
 <li>
-[![](https://img.shields.io/badge/-🦠%Java‑19%20ShoppingDatabase-000)](https://github.com/AliesTaha/ShoppingDatabase)
+   <a href="https://github.com/AliesTaha/ShoppingDatabase">Java Database: Store Inventory<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Hundred%20Points.png?raw=true" width='30px'></a>
+<br>
 
 <li>
-[![](https://img.shields.io/badge/-📝%20Galactic%20Capitalism-000)](https://github.com/AliesTaha/Space-Invaders-Game)
+   <a href="https://github.com/AliesTaha/Space-Invaders-Game">Java Terminal Game: Galactic Capitalism <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Hundred%20Points.png?raw=true" width='30px'></a>
+  <br>
+
   <li>
-[![](https://img.shields.io/badge/-🔬%20RPG-000)](https://github.com/AliesTaha/RPG-Game)
+     <a href="https://github.com/AliesTaha/RPG-Game">RPG Game<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Hundred%20Points.png?raw=true" width='30px'></a>
+    <br>
+
     <li>
-[![](https://img.shields.io/badge/-🛰%20LikeIt%20Full%20Stack%20Web%20App-000)](https://github.com/AliesTaha/likeit)
+       <a href="https://github.com/AliesTaha/likeit">Like It: Full Stack Social Media Web App<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Hundred%20Points.png?raw=true" width='30px'></a>
+      <br>
+
       <li>
-[![](https://img.shields.io/badge/-🔊%20Hack%20The%20North:%20Dog%20Sitter-000)](https://github.com/AliesTaha/DogSitter)
+         <a href="https://github.com/AliesTaha/DogSitter">Hack The North: Dog Sitter<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Hundred%20Points.png?raw=true" width='30px'></a>
 
   
 <p>
