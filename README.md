@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Ali+Taha;)](https://git.io/typing-svg)
 
-I am a Computer Engineering student at University of Waterloo.
+I am a Computer Engineering student at University of Waterloo.![image](https://user-images.githubusercontent.com/103478551/213934829-6f2f5e17-3900-4a8c-80da-85f6c29115cb.png)
   
 From Python to C, from Java to C++ to HTML and CSS, I like to explore everything tech.
   
