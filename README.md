@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Ali+Taha;)](https://git.io/typing-svg)
 
-<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People%20with%20professions/Person%20Light%20Skin%20Tone,%20Curly%20Hair.png?raw=true" width=50px>I am a Computer Engineering student at University of Waterloo 
+I am a Computer Engineering student at University of Waterloo <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People%20with%20professions/Person%20Light%20Skin%20Tone,%20Curly%20Hair.png?raw=true" width=50px>
   
 From Python to C, from Java to C++ to HTML and CSS, I like to explore everything tech.
   
