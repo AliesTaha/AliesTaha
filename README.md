@@ -2,7 +2,7 @@
 <a href="https://alitaha.ca"> <img src="https://user-images.githubusercontent.com/103478551/210186056-1a80f910-309b-41a3-b1ad-8f9eb436fcb6.png"></a>
 </div>
 
-# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Ali+Taha;)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@ I am currently working on improving my <a href="https://aliestaha.github.io/">pe
   
 I am also looking to land an internship this spring! Feel free to reach out to me by <a href="mailto:ali.taha@uwaterloo.ca">email</a>, or on my <a href="https://aliestasha.com">LinkedIn</a>. 
   
-## More About Me 🧑‍🎓:
+## More About Me 🧑‍🎓: <img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" height="170"> 
 ### Languages
 <p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
