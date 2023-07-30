@@ -38,62 +38,59 @@ I am also looking to land an internship this spring! Feel free to reach out to m
 </p>  
   
 ### Full Stack Projects
-
-<ul>
-  <li>
-    <div class="img-center">
-      <a href="https://github.com/aliestaha/aliestaha.github.io">
-        <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png?raw=true" width='100px'>
-    <div class="subtitle">My Portfolio Website</div>
-    </a>
-  </li><br>
-
-  <li>
-    <div class="img-center">
-      <a href="https://github.com/AliesTaha/ShoppingDatabase">
-        <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People/Technologist.png?raw=true" width='100px'>
-    <div class="subtitle">Java Database: Store Inventory</div>
-      </a>
-  </li>
-    <br>
-
-  <li>
-    <div class="img-center">
-      <a href="https://github.com/AliesTaha/Space-Invaders-Game">
-        <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People/Zombie.png?raw=true" width='100px'>
-    <div class="subtitle">Java Terminal Game: Galactic Capitalism</div>
-      </a>
-  </li>
-    <br>
-
-  <li>
-    <div class="img-center">
-      <a href="https://github.com/AliesTaha/RPG-Game">
-        <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Alien%20Monster.png?raw=true" width='100px'>
-    <div class="subtitle">RPG Game</div>
-      </a>
-  </li>
-    <br>
-
-  <li>
-    <div class="img-center">
-      <a href="https://github.com/AliesTaha/likeit">
-        <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People%20with%20activities/Woman%20and%20Man%20Holding%20Hands%20Medium%20Skin%20Tone.png?raw=true" width='100px'>
-    <div class="subtitle">Like It: Full Stack Social Media Web App</div>
-      </a>
-  </li>
-    <br>
-
-  <li>
-    <div class="img-center">
-      <a href="https://github.com/AliesTaha/DogSitter">
-        <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Animals/Dog.png?raw=true" width='100px'>
-    <div class="subtitle">Hack The North: Dog Sitter</div>
-      </a>
-    </li>
+<div align="center">
+  <div style="display: flex; justify-content: center;">
+    <!-- First item -->
+    <div style="width: 45%; margin: 10px;">
+      <ul>
+          <div class="img-center">
+            <a href="https://github.com/aliestaha/aliestaha.github.io">
+              <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png?raw=true" width='100px'>
+              <div class="subtitle">My Portfolio Website</div>
+            </a>
+          </div>
+          <div class="img-center">
+            <a href="https://github.com/AliesTaha/ShoppingDatabase">
+              <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People/Technologist.png?raw=true" width='100px'>
+              <div class="subtitle">Java Database: Store Inventory</div>
+            </a>
+          </div>
+      </ul>
+    </div>
+    <!-- Second item -->
+    <div style="width: 45%; margin: 10px;">
+      <ul>
+          <div class="img-center">
+            <a href="https://github.com/AliesTaha/Space-Invaders-Game">
+              <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People/Zombie.png?raw=true" width='100px'>
+              <div class="subtitle">Java Terminal Game: Galactic Capitalism</div>
+            </a>
+          </div>
+          <div class="img-center">
+            <a href="https://github.com/AliesTaha/RPG-Game">
+              <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Alien%20Monster.png?raw=true" width='100px'>
+              <div class="subtitle">RPG Game</div>
+            </a>
+          </div>
+          <div class="img-center">
+            <a href="https://github.com/AliesTaha/likeit">
+              <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People%20with%20activities/Woman%20and%20Man%20Holding%20Hands%20Medium%20Skin%20Tone.png?raw=true" width='100px'>
+              <div class="subtitle">Like It: Full Stack Social Media Web App</div>
+            </a>
+          </div>
+        <br>
+          <div class="img-center">
+            <a href="https://github.com/AliesTaha/DogSitter">
+              <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Animals/Dog.png?raw=true" width='100px'>
+              <div class="subtitle">Hack The North: Dog Sitter</div>
+            </a>
+          </div>
+      </ul>
+    </div>
+  </div>
+</div>
 
 
-  
 <p>
   <div align="center">
   </div>
@@ -110,12 +107,22 @@ Im also currently working on writing my own personal website. Apart from technic
 <p align="center"><a href="https://www.linkedin.com/in/aliestaha/" target="_blank"> <img src="https://img.shields.io/badge/AliTaha%20-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a><a href="https://twitter.com/AliesTaha" target="_blank"> <img src="https://img.shields.io/badge/AliTaha%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a></p>
 </div>
     
-## <h3 align="">🏆GitHub Stats</h3>
+## <h3 align="">🏆Stats</h3>
+<div align="center">
+  <a href="https://www.alitaha.ca/">
+    <img height="297px" src="https://leetcard.jacoblin.cool/Aliestaha?theme=unicorn&extension=activity">
+  </a>
 
-  <div align="center">
-  <a href="https://www.alitaha.ca/"> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliestaha&layout=compact&theme=dark" /></a>
-  <a href"https://www.alitaha.ca"><img height="137px" src="https://leetcard.jacoblin.cool/Aliestaha?theme=unicorn&extension=activity"></a>
-  <a href="https://alitaha.ca"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=aliestaha&show_icons=true&theme=radical"/></a>
+  <!-- GitHub Stats below the Leetcard -->
+  <div style="display: flex; justify-content: center;">
+    <a href="https://www.alitaha.ca/">
+      <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliestaha&layout=compact&theme=dark">
+    </a>
+    <a href="https://alitaha.ca">
+      <img height="137px" src="https://github-readme-stats.vercel.app/api?username=aliestaha&show_icons=true&theme=radical">
+    </a>
   </div>
+</div>
+
   
 <h2 align="center"> ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ </h2>
