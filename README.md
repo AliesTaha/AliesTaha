@@ -114,6 +114,7 @@ Im also currently working on writing my own personal website. Apart from technic
 
   <div align="center">
   <a href="https://www.alitaha.ca/"> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliestaha&layout=compact&theme=dark" /></a>
+  <a href"https://www.alitaha.ca"><img height="137px" src="https://leetcard.jacoblin.cool/Aliestaha?theme=unicorn&extension=activity"></a>
   <a href="https://alitaha.ca"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=aliestaha&show_icons=true&theme=radical"/></a>
   </div>
   
