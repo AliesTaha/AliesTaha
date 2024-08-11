@@ -21,17 +21,9 @@
 
     def say_hi(self):
         print("Contact me through my personal website or email for any inquiries or requests")
-        
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Ali+Taha;)](https://git.io/typing-svg)
 
-I am a Computer Engineering student at University of Waterloo <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People%20with%20professions/Person%20Light%20Skin%20Tone,%20Curly%20Hair.png?raw=true" width=50px>
-  
-From Python to C, from Java to C++ to HTML and CSS, I like to explore everything tech.
-  
-I am currently working on improving my <a href="https://aliestaha.github.io/">personal website</a>.
-  
-I am also looking to land an internship this winter! Feel free to reach out to me by <a href="mailto:ali.taha@uwaterloo.ca">email</a>, or on my <a href="https://aliestasha.com">LinkedIn</a>. 
-  
+<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People%20with%20professions/Person%20Light%20Skin%20Tone,%20Curly%20Hair.png?raw=true" width=50px>
+
 <h2 align="">Contact Me: </h2>
   <div align="center">
   </div>
