@@ -9,12 +9,12 @@
         self.education = "UWaterloo Computer Engineering"
         self.location = "Canada"
         self.role = {
-            "current": "Embedded @ Tesla",
+            "current": "CE Student @ Waterloo",
             "previous": "SWE @ Ford/Blackberry"}
 
     def moreInfo(self):
         aboutMe = {
-            "currentFocus" : ["Pass Exams"],
+            "currentFocus" : ["Learn Firmware"],
             "languages" : ["Python", "C++", "C"]
         }
         print(aboutMe)
