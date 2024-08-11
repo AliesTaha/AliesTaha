@@ -2,7 +2,7 @@
 <a href="https://alitaha.ca"> <img src="https://user-images.githubusercontent.com/103478551/210186056-1a80f910-309b-41a3-b1ad-8f9eb436fcb6.png"></a>
 </div>
 
-# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+# Hey, I'm Ali
 
     def __init__(self):
         self.name = "Ali Taha"
@@ -22,16 +22,6 @@
     def say_hi(self):
         print("Contact me through my personal website or email for any inquiries or requests")
 
-<img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People%20with%20professions/Person%20Light%20Skin%20Tone,%20Curly%20Hair.png?raw=true" width=50px>
-
-<h2 align="">Contact Me: </h2>
-  <div align="center">
-  </div>
-<br>
-</p>
-<p align="center"><a href="https://www.linkedin.com/in/aliestaha/" target="_blank"> <img src="https://img.shields.io/badge/AliTaha%20-%231DA1F2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a><a href="https://twitter.com/AliesTaha" target="_blank"> <img src="https://img.shields.io/badge/AliTaha%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a></p>
-</div>
-    
 ## <h3 align="">🏆Stats</h3>
 <div align="center">
   <a href="https://www.alitaha.ca/">
