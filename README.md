@@ -4,15 +4,13 @@
 
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
-class ComputerEngineer:
-
     def __init__(self):
-        self.name = "Justin Lau"
+        self.name = "Ali Taha"
         self.education = "UWaterloo Computer Engineering"
         self.location = "Canada"
         self.role = {
-            "current": "SWE @ SPS Commerce",
-            "previous": "SWE @ BCS Automation"}
+            "current": "Embedded @ Tesla",
+            "previous": "SWE @ Ford/Blackberry"}
 
     def moreInfo(self):
         aboutMe = {
@@ -43,91 +41,6 @@ I am currently working on improving my <a href="https://aliestaha.github.io/">pe
   
 I am also looking to land an internship this winter! Feel free to reach out to me by <a href="mailto:ali.taha@uwaterloo.ca">email</a>, or on my <a href="https://aliestasha.com">LinkedIn</a>. 
   
-## More About Me 🧑‍🎓: 
-### Languages
-<p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-</div>
-
-### Technologies
-<p align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-</p>  
-  
-### Full Stack Projects
-<div align="center">
-  <div style="display: flex; justify-content: center;">
-    <!-- First item -->
-    <div style="width: 45%; margin: 10px;">
-      <ul>
-          <div class="img-center">
-            <a href="https://github.com/aliestaha/aliestaha.github.io">
-              <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People%20with%20professions/Student%20Light%20Skin%20Tone.png?raw=true" width='100px'>
-              <div class="subtitle">My Portfolio Website</div>
-            </a>
-          </div>
-          <div class="img-center">
-            <a href="https://github.com/AliesTaha/ShoppingDatabase">
-              <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People/Technologist.png?raw=true" width='100px'>
-              <div class="subtitle">Java Database: Store Inventory</div>
-            </a>
-          </div>
-      </ul>
-    </div>
-    <!-- Second item -->
-    <div style="width: 45%; margin: 10px;">
-      <ul>
-          <div class="img-center">
-            <a href="https://github.com/AliesTaha/Space-Invaders-Game">
-              <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People/Zombie.png?raw=true" width='100px'>
-              <div class="subtitle">Java Terminal Game: Galactic Capitalism</div>
-            </a>
-          </div>
-          <div class="img-center">
-            <a href="https://github.com/AliesTaha/RPG-Game">
-              <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Smilies/Alien%20Monster.png?raw=true" width='100px'>
-              <div class="subtitle">RPG Game</div>
-            </a>
-          </div>
-          <div class="img-center">
-            <a href="https://github.com/AliesTaha/likeit">
-              <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People%20with%20activities/Woman%20and%20Man%20Holding%20Hands%20Medium%20Skin%20Tone.png?raw=true" width='100px'>
-              <div class="subtitle">Like It: Full Stack Social Media Web App</div>
-            </a>
-          </div>
-        <br>
-          <div class="img-center">
-            <a href="https://github.com/AliesTaha/DogSitter">
-              <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/Animals/Dog.png?raw=true" width='100px'>
-              <div class="subtitle">Hack The North: Dog Sitter</div>
-            </a>
-          </div>
-      </ul>
-    </div>
-  </div>
-</div>
-
-
-<p>
-  <div align="center">
-  </div>
-</div>
-<div>
-Im also currently working on writing my own personal website. Apart from technical skills, I have experience leading the programming team of my FIRST Robotics High School Team and am involved in several design teams at the university.
-</p>
-<br>
 <h2 align="">Contact Me: </h2>
   <div align="center">
   </div>
