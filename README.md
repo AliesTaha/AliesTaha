@@ -14,22 +14,13 @@
 
     def moreInfo(self):
         aboutMe = {
-            "currentFocus" : ["Building a Roblox developer networking platform"],
-            "languages" : ["Python", "C++", "C", "C#", "Java", "Javascript", "TypeScript", "Lua"],
-            "technologies" : {
-                "web" : ["React", "JavaScript", "Express.js", "Node.js", "HTML/CSS", "ASP.NET Core", "three.js"],
-                "gamedev" :  ["Unity", "Roblox Studio"],
-                "mobile" : ["learning React Native"],
-                "cloud" : ["Azure", "GCP"],
-                "databases" : ["MySQL", "MongoDB", "SQL Server"],
-                "embedded/hardware" : ["STM32", "arduino", "FPGA", "VHDL", "ARM Assembly", "Verilog"]
-                "misc" : ["Firebase", "Figma", "Postman", "Vercel", "Netlify", "Git"]
-            } 
+            "currentFocus" : ["Pass Exams"],
+            "languages" : ["Python", "C++", "C"]
         }
         print(aboutMe)
 
     def say_hi(self):
-        print("Contact me through my personal website for any inquiries or requests!")
+        print("Contact me through my personal website or email for any inquiries or requests")
         
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Ali+Taha;)](https://git.io/typing-svg)
 
