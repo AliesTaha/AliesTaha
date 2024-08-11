@@ -4,6 +4,35 @@
 
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
+class ComputerEngineer:
+
+    def __init__(self):
+        self.name = "Justin Lau"
+        self.education = "UWaterloo Computer Engineering"
+        self.location = "Canada"
+        self.role = {
+            "current": "SWE @ SPS Commerce",
+            "previous": "SWE @ BCS Automation"}
+
+    def moreInfo(self):
+        aboutMe = {
+            "currentFocus" : ["Building a Roblox developer networking platform"],
+            "languages" : ["Python", "C++", "C", "C#", "Java", "Javascript", "TypeScript", "Lua"],
+            "technologies" : {
+                "web" : ["React", "JavaScript", "Express.js", "Node.js", "HTML/CSS", "ASP.NET Core", "three.js"],
+                "gamedev" :  ["Unity", "Roblox Studio"],
+                "mobile" : ["learning React Native"],
+                "cloud" : ["Azure", "GCP"],
+                "databases" : ["MySQL", "MongoDB", "SQL Server"],
+                "embedded/hardware" : ["STM32", "arduino", "FPGA", "VHDL", "ARM Assembly", "Verilog"]
+                "misc" : ["Firebase", "Figma", "Postman", "Vercel", "Netlify", "Git"]
+            } 
+        }
+        print(aboutMe)
+
+    def say_hi(self):
+        print("Contact me through my personal website for any inquiries or requests!")
+        
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Ali+Taha;)](https://git.io/typing-svg)
 
 I am a Computer Engineering student at University of Waterloo <img src="https://github.com/AliesTaha/Animated-Emojis/blob/master/Emojis/People%20with%20professions/Person%20Light%20Skin%20Tone,%20Curly%20Hair.png?raw=true" width=50px>
