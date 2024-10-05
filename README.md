@@ -7,7 +7,7 @@
         self.education = "UWaterloo Computer Engineering"
         self.location = "Canada"
         self.role = {
-            "current": "CE Student @ Waterloo",
+            "current": "SWE @ Tesla",
             "previous": "SWE @ Ford/Blackberry"}
 
     def moreInfo(self):
