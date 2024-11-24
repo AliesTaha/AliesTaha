@@ -1,18 +1,18 @@
 
     def __init__(self):
-        self.name = "Ali Taha"
-        self.education = "UWaterloo Computer Engineering"
-        self.location = "Canada"
+        self.name = "ali taha"
+        self.education = "uwaterloo computer engineering"
+        self.location = "california"
         self.role = {
-            "current": "SWE @ Tesla",
-            "previous": "SWE @ Ford/Blackberry"}
+            "curr": "ai/swe @ tesla",
+            "prev": "swer @ ford/blackberry"}
 
     def moreInfo(self):
         aboutMe = {
-            "currentFocus" : ["Learn Firmware"],
-            "languages" : ["Python", "C++", "C"]
+            "currentFocus" : ["implement ml papers"],
+            "languages" : ["python", "c++", "c"]
         }
         print(aboutMe)
 
     def say_hi(self):
-        print("Contact me through my personal website or email for any inquiries or requests")
+        print("contact ali.taha@uwaterloo.ca")
