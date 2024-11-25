@@ -17,66 +17,69 @@
     def say_hi(self):
         print("contact ali.taha@uwaterloo.ca")
 
-read essays
-go down rabbit holes
-have a calendar
-maintain a todo list
-read old books
-watch old movies
-turn on dnd
-walk with intent
-train without music
-plan for 15 mins
-execute
-organise your desk
-take something seriously 
-read ancient scripts. act fast
-eat clean
-journal
-save a life
-learn to code
-read poetry
-create art
-stay composed
-refine your speech
-optimise for efficiency
-act sincere
-help people
-stop doing things that waste your time
-follow your intuition
-craft reputation. 
-learn persuasion
-systemise your day
-write. write. write. write more
-iterate violently
-leave your phone at home
-walk to the grocery store
-talk to strangers
-visit bookstores
-look for 1800s novels 
-experience art
-then love
-don't talk shit about people
-embody virtue
-sit alone
-do something with your life
-what do you want to create
-play combat sports
-notice patterns on a table
-visualise it
-talk to people with respect
-don't hate
-be real
-become yourself
-cherrypick your qualities
-discard the useless
-rejections aren't permanent
-invite what aligns
-accept what does not
-read great people
-be different 
-choose different 
-do great work
-let it consume you
-value your time 
-experience life
+<ul style="list-style-type: disc; padding: 0; margin: 0;">
+<li>Read essays</li>
+<li>Go down rabbit holes</li>
+<li>Have a calendar</li>
+<li>Maintain a todo list</li>
+<li>Read old books</li>
+<li>Watch old movies</li>
+<li>Turn on DND</li>
+<li>Walk with intent</li>
+<li>Train without music</li>
+<li>Plan for 15 minutes</li>
+<li>Execute</li>
+<li>Organise your desk</li>
+<li>Take something seriously</li>
+<li>Read ancient scripts</li>
+<li>Act fast</li>
+<li>Eat clean</li>
+<li>Journal</li>
+<li>Save a life</li>
+<li>Learn to code</li>
+<li>Read poetry</li>
+<li>Create art</li>
+<li>Stay composed</li>
+<li>Refine your speech</li>
+<li>Optimise for efficiency</li>
+<li>Act sincere</li>
+<li>Help people</li>
+<li>Stop doing things that waste your time</li>
+<li>Follow your intuition</li>
+<li>Craft reputation</li>
+<li>Learn persuasion</li>
+<li>Systemise your day</li>
+<li>Write. Write. Write. Write more</li>
+<li>Iterate violently</li>
+<li>Leave your phone at home</li>
+<li>Walk to the grocery store</li>
+<li>Talk to strangers</li>
+<li>Visit bookstores</li>
+<li>Look for 1800s novels</li>
+<li>Experience art</li>
+<li>Then love</li>
+<li>Don't talk shit about people</li>
+<li>Embody virtue</li>
+<li>Sit alone</li>
+<li>Do something with your life</li>
+<li>What do you want to create</li>
+<li>Play combat sports</li>
+<li>Notice patterns on a table</li>
+<li>Visualise it</li>
+<li>Talk to people with respect</li>
+<li>Don't hate</li>
+<li>Be real</li>
+<li>Become yourself</li>
+<li>Cherrypick your qualities</li>
+<li>Discard the useless</li>
+<li>Rejections aren't permanent</li>
+<li>Invite what aligns</li>
+<li>Accept what does not</li>
+<li>Read great people</li>
+<li>Be different</li>
+<li>Choose different</li>
+<li>Do great work</li>
+<li>Let it consume you</li>
+<li>Value your time</li>
+<li>Experience life</li>
+</ul>
