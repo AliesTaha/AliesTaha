@@ -17,69 +17,101 @@
     def say_hi(self):
         print("contact ali.taha@uwaterloo.ca")
 
-<ul style="list-style-type: disc; padding: 0; margin: 0;">
-<li>Read essays</li>
-<li>Go down rabbit holes</li>
-<li>Have a calendar</li>
-<li>Maintain a todo list</li>
-<li>Read old books</li>
-<li>Watch old movies</li>
-<li>Turn on DND</li>
-<li>Walk with intent</li>
-<li>Train without music</li>
-<li>Plan for 15 minutes</li>
-<li>Execute</li>
-<li>Organise your desk</li>
-<li>Take something seriously</li>
-<li>Read ancient scripts</li>
-<li>Act fast</li>
-<li>Eat clean</li>
-<li>Journal</li>
-<li>Save a life</li>
-<li>Learn to code</li>
-<li>Read poetry</li>
-<li>Create art</li>
-<li>Stay composed</li>
-<li>Refine your speech</li>
-<li>Optimise for efficiency</li>
-<li>Act sincere</li>
-<li>Help people</li>
-<li>Stop doing things that waste your time</li>
-<li>Follow your intuition</li>
-<li>Craft reputation</li>
-<li>Learn persuasion</li>
-<li>Systemise your day</li>
-<li>Write. Write. Write. Write more</li>
-<li>Iterate violently</li>
-<li>Leave your phone at home</li>
-<li>Walk to the grocery store</li>
-<li>Talk to strangers</li>
-<li>Visit bookstores</li>
-<li>Look for 1800s novels</li>
-<li>Experience art</li>
-<li>Then love</li>
-<li>Don't talk shit about people</li>
-<li>Embody virtue</li>
-<li>Sit alone</li>
-<li>Do something with your life</li>
-<li>What do you want to create</li>
-<li>Play combat sports</li>
-<li>Notice patterns on a table</li>
-<li>Visualise it</li>
-<li>Talk to people with respect</li>
-<li>Don't hate</li>
-<li>Be real</li>
-<li>Become yourself</li>
-<li>Cherrypick your qualities</li>
-<li>Discard the useless</li>
-<li>Rejections aren't permanent</li>
-<li>Invite what aligns</li>
-<li>Accept what does not</li>
-<li>Read great people</li>
-<li>Be different</li>
-<li>Choose different</li>
-<li>Do great work</li>
-<li>Let it consume you</li>
-<li>Value your time</li>
-<li>Experience life</li>
-</ul>
+<table>
+  <tr>
+    <td>Read essays</td>
+    <td>Go down rabbit holes</td>
+    <td>Have a calendar</td>
+    <td>Maintain a todo list</td>
+  </tr>
+  <tr>
+    <td>Read old books</td>
+    <td>Watch old movies</td>
+    <td>Turn on DND</td>
+    <td>Walk with intent</td>
+  </tr>
+  <tr>
+    <td>Train without music</td>
+    <td>Plan for 15 minutes</td>
+    <td>Execute</td>
+    <td>Organise your desk</td>
+  </tr>
+  <tr>
+    <td>Take something seriously</td>
+    <td>Read ancient scripts</td>
+    <td>Act fast</td>
+    <td>Eat clean</td>
+  </tr>
+  <tr>
+    <td>Journal</td>
+    <td>Save a life</td>
+    <td>Learn to code</td>
+    <td>Read poetry</td>
+  </tr>
+  <tr>
+    <td>Create art</td>
+    <td>Stay composed</td>
+    <td>Refine your speech</td>
+    <td>Optimise for efficiency</td>
+  </tr>
+  <tr>
+    <td>Act sincere</td>
+    <td>Help people</td>
+    <td>Stop doing things that waste time</td>
+    <td>Follow your intuition</td>
+  </tr>
+  <tr>
+    <td>Craft reputation</td>
+    <td>Learn persuasion</td>
+    <td>Systemise your day</td>
+    <td>Write. Write. Write. Write more</td>
+  </tr>
+  <tr>
+    <td>Iterate violently</td>
+    <td>Leave your phone at home</td>
+    <td>Walk to the grocery store</td>
+    <td>Talk to strangers</td>
+  </tr>
+  <tr>
+    <td>Visit bookstores</td>
+    <td>Look for 1800s novels</td>
+    <td>Experience art</td>
+    <td>Then love</td>
+  </tr>
+  <tr>
+    <td>Don't talk shit about people</td>
+    <td>Embody virtue</td>
+    <td>Sit alone</td>
+    <td>Do something with your life</td>
+  </tr>
+  <tr>
+    <td>What do you want to create</td>
+    <td>Play combat sports</td>
+    <td>Notice patterns on a table</td>
+    <td>Visualise it</td>
+  </tr>
+  <tr>
+    <td>Talk to people with respect</td>
+    <td>Don't hate</td>
+    <td>Be real</td>
+    <td>Become yourself</td>
+  </tr>
+  <tr>
+    <td>Cherrypick your qualities</td>
+    <td>Discard the useless</td>
+    <td>Rejections aren't permanent</td>
+    <td>Invite what aligns</td>
+  </tr>
+  <tr>
+    <td>Accept what does not</td>
+    <td>Read great people</td>
+    <td>Be different</td>
+    <td>Choose different</td>
+  </tr>
+  <tr>
+    <td>Do great work</td>
+    <td>Let it consume you</td>
+    <td>Value your time</td>
+    <td>Experience life</td>
+  </tr>
+</table>
