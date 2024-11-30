@@ -16,7 +16,6 @@
 
     def say_hi(self):
         print("contact ali.taha@uwaterloo.ca")
-
 <table>
   <tr>
     <th>Self-Improvement</th>
@@ -25,87 +24,87 @@
     <th>Life Philosophy</th>
   </tr>
   <tr>
-    <td>Read essays</td>
-    <td>Have a calendar</td>
-    <td>Read old books</td>
-    <td>Act sincere</td>
+    <td>Read essays <input type="checkbox"></td>
+    <td>Have a calendar <input type="checkbox"></td>
+    <td>Read old books <input type="checkbox"></td>
+    <td>Act sincere <input type="checkbox"></td>
   </tr>
   <tr>
-    <td>Train without music</td>
-    <td>Maintain a todo list</td>
-    <td>Watch old movies</td>
-    <td>Help people</td>
+    <td>Train without music <input type="checkbox"></td>
+    <td>Maintain a todo list <input type="checkbox"></td>
+    <td>Watch old movies <input type="checkbox"></td>
+    <td>Help people <input type="checkbox"></td>
   </tr>
   <tr>
-    <td>Take something seriously</td>
-    <td>Plan for 15 minutes</td>
-    <td>Visit bookstores</td>
-    <td>Follow your intuition</td>
+    <td>Take something seriously <input type="checkbox"></td>
+    <td>Plan for 15 minutes <input type="checkbox"></td>
+    <td>Visit bookstores <input type="checkbox"></td>
+    <td>Follow your intuition <input type="checkbox"></td>
   </tr>
   <tr>
-    <td>Journal</td>
-    <td>Systemise your day</td>
-    <td>Read ancient scripts</td>
-    <td>Be real</td>
+    <td>Journal <input type="checkbox"></td>
+    <td>Systemise your day <input type="checkbox"></td>
+    <td>Read ancient scripts <input type="checkbox"></td>
+    <td>Be real <input type="checkbox"></td>
   </tr>
   <tr>
-    <td>Eat clean</td>
-    <td>Organise your desk</td>
-    <td>Create art</td>
-    <td>Discard the useless</td>
+    <td>Eat clean <input type="checkbox"></td>
+    <td>Organise your desk <input type="checkbox"></td>
+    <td>Create art <input type="checkbox"></td>
+    <td>Discard the useless <input type="checkbox"></td>
   </tr>
   <tr>
-    <td>Sit alone</td>
-    <td>Execute</td>
-    <td>Read poetry</td>
-    <td>Rejections aren't permanent</td>
+    <td>Sit alone <input type="checkbox"></td>
+    <td>Execute <input type="checkbox"></td>
+    <td>Read poetry <input type="checkbox"></td>
+    <td>Rejections aren't permanent <input type="checkbox"></td>
   </tr>
   <tr>
-    <td>Stay composed</td>
-    <td>Iterate violently</td>
-    <td>Look for 1800s novels</td>
-    <td>Invite what aligns</td>
+    <td>Stay composed <input type="checkbox"></td>
+    <td>Iterate violently <input type="checkbox"></td>
+    <td>Look for 1800s novels <input type="checkbox"></td>
+    <td>Invite what aligns <input type="checkbox"></td>
   </tr>
   <tr>
-    <td>Play combat sports</td>
-    <td>Leave your phone at home</td>
-    <td>Experience art</td>
-    <td>Choose different</td>
+    <td>Play combat sports <input type="checkbox"></td>
+    <td>Leave your phone at home <input type="checkbox"></td>
+    <td>Experience art <input type="checkbox"></td>
+    <td>Choose different <input type="checkbox"></td>
   </tr>
   <tr>
-    <td>Act fast</td>
-    <td>Talk to strangers</td>
-    <td>Notice patterns on a table</td>
-    <td>Embody virtue</td>
+    <td>Act fast <input type="checkbox"></td>
+    <td>Talk to strangers <input type="checkbox"></td>
+    <td>Notice patterns on a table <input type="checkbox"></td>
+    <td>Embody virtue <input type="checkbox"></td>
   </tr>
   <tr>
-    <td>Value your time</td>
-    <td>Walk to the grocery store</td>
-    <td>Visualise it</td>
-    <td>Don't hate</td>
+    <td>Value your time <input type="checkbox"></td>
+    <td>Walk to the grocery store <input type="checkbox"></td>
+    <td>Visualise it <input type="checkbox"></td>
+    <td>Don't hate <input type="checkbox"></td>
   </tr>
   <tr>
-    <td>Save a life</td>
-    <td>Craft reputation</td>
-    <td>Write. Write. Write. Write more</td>
-    <td>Do great work</td>
+    <td>Save a life <input type="checkbox"></td>
+    <td>Craft reputation <input type="checkbox"></td>
+    <td>Write. Write. Write. Write more <input type="checkbox"></td>
+    <td>Do great work <input type="checkbox"></td>
   </tr>
   <tr>
-    <td>Be different</td>
-    <td>Learn persuasion</td>
-    <td>Refine your speech</td>
-    <td>Let it consume you</td>
+    <td>Be different <input type="checkbox"></td>
+    <td>Learn persuasion <input type="checkbox"></td>
+    <td>Refine your speech <input type="checkbox"></td>
+    <td>Let it consume you <input type="checkbox"></td>
   </tr>
   <tr>
-    <td>What do you want to create</td>
-    <td>Stop doing things that waste time</td>
-    <td>Optimise for efficiency</td>
-    <td>Experience life</td>
+    <td>What do you want to create <input type="checkbox"></td>
+    <td>Stop doing things that waste time <input type="checkbox"></td>
+    <td>Optimise for efficiency <input type="checkbox"></td>
+    <td>Experience life <input type="checkbox"></td>
   </tr>
   <tr>
-    <td>Read great people</td>
-    <td>Organise your desk</td>
-    <td>Learn to code</td>
-    <td>Talk to people with respect</td>
+    <td>Read great people <input type="checkbox"></td>
+    <td>Organise your desk <input type="checkbox"></td>
+    <td>Learn to code <input type="checkbox"></td>
+    <td>Talk to people with respect <input type="checkbox"></td>
   </tr>
 </table>
