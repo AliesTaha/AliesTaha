@@ -5,7 +5,7 @@
         self.location = "california"
         self.role = {
             "curr": "ai/swe @ tesla",
-            "prev": "swer @ ford/blackberry"}
+            "prev": "swe @ ford/blackberry"}
 
     def moreInfo(self):
         aboutMe = {
