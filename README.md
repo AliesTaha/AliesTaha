@@ -4,13 +4,13 @@
         self.education = "uwaterloo computer engineering"
         self.location = "california"
         self.role = {
-            "curr": "ai/swe @ tesla",
-            "prev": "swe @ ford/blackberry"}
+            "curr": "gpu perf @ modular",
+            "prev": "ai @tesla, swe @ ford/blackberry"}
 
     def moreInfo(self):
         aboutMe = {
-            "currentFocus" : ["implement ml papers"],
-            "languages" : ["python", "c++", "c"]
+            "currentFocus" : ["write kernels"],
+            "languages" : ["python", "c++", "c", "mojo"]
         }
         print(aboutMe)
 
