@@ -1,4 +1,4 @@
-
+```py
     def __init__(self):
         self.name = "ali taha"
         self.education = "uwaterloo computer engineering"
@@ -16,6 +16,7 @@
 
     def say_hi(self):
         print("contact ali.taha@uwaterloo.ca")
+```
 
 <table>
   <tr>
