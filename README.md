@@ -30,9 +30,7 @@
     <td>Act sincere <input type="checkbox"></td>
   </tr>
   <tr>
-    <td>Train without music <input type="checkbox"></td>
     <td>Maintain a todo list <input type="checkbox"></td>
-    <td>Watch old movies <input type="checkbox"></td>
     <td>Help people <input type="checkbox"></td>
   </tr>
   <tr>
@@ -50,7 +48,6 @@
   <tr>
     <td>Eat clean <input type="checkbox"></td>
     <td>Organise your desk <input type="checkbox"></td>
-    <td>Create art <input type="checkbox"></td>
     <td>Discard the useless <input type="checkbox"></td>
   </tr>
   <tr>
@@ -62,7 +59,6 @@
   <tr>
     <td>Stay composed <input type="checkbox"></td>
     <td>Iterate violently <input type="checkbox"></td>
-    <td>Look for 1800s novels <input type="checkbox"></td>
     <td>Invite what aligns <input type="checkbox"></td>
   </tr>
   <tr>
@@ -81,7 +77,6 @@
     <td>Value your time <input type="checkbox"></td>
     <td>Walk to the grocery store <input type="checkbox"></td>
     <td>Visualise it <input type="checkbox"></td>
-    <td>Don't hate <input type="checkbox"></td>
   </tr>
   <tr>
     <td>Save a life <input type="checkbox"></td>
@@ -96,13 +91,11 @@
     <td>Let it consume you <input type="checkbox"></td>
   </tr>
   <tr>
-    <td>What do you want to create <input type="checkbox"></td>
     <td>Stop doing things that waste time <input type="checkbox"></td>
     <td>Optimise for efficiency <input type="checkbox"></td>
     <td>Experience life <input type="checkbox"></td>
   </tr>
   <tr>
-    <td>Read great people <input type="checkbox"></td>
     <td>Organise your desk <input type="checkbox"></td>
     <td>Learn to code <input type="checkbox"></td>
     <td>Talk to people with respect <input type="checkbox"></td>
