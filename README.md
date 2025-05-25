@@ -1,7 +1,7 @@
 ```py
     def __init__(self):
         self.name = "ali taha"
-        self.education = "uwaterloo computer engineering"
+        self.education = "uwaterloo comp eng"
         self.location = "california"
         self.role = {
             "curr": "gpu perf @ modular",
