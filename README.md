@@ -1,15 +1,23 @@
 <table>
+    <tr>
+    <td>Write. Write. Write. Write more <input type="checkbox"></td>
+    <td>Do great work <input type="checkbox"></td>
+    <td>Visualise it <input type="checkbox"></td>
+  </tr>
   <tr>
     <td>Read essays <input type="checkbox"></td>
     <td>Have a calendar <input type="checkbox"></td>
     <td>Read old books <input type="checkbox"></td>
+  </tr>
+   <tr>
     <td>Act sincere <input type="checkbox"></td>
+    <td>Follow your intuition <input type="checkbox"></td>
+    <td>Rejections aren't permanent <input type="checkbox"></td>
   </tr>
   <tr>
     <td>Maintain a todo list <input type="checkbox"></td>
     <td>Help people <input type="checkbox"></td>
     <td>Visit bookstores <input type="checkbox"></td>
-    <td>Follow your intuition <input type="checkbox"></td>
   </tr>
   <tr>
     <td>Take something seriously <input type="checkbox"></td>
@@ -20,7 +28,6 @@
     <td>Journal <input type="checkbox"></td>
     <td>Systemise your day <input type="checkbox"></td>
     <td>Discard the useless <input type="checkbox"></td>
-    <td>Rejections aren't permanent <input type="checkbox"></td>
   </tr>
   <tr>
     <td>Eat clean <input type="checkbox"></td>
@@ -31,24 +38,20 @@
     <td>Sit alone <input type="checkbox"></td>
     <td>Execute <input type="checkbox"></td>
     <td>Invite what aligns <input type="checkbox"></td>
-    <td>Embody virtue <input type="checkbox"></td>
   </tr>
   <tr>
     <td>Stay composed <input type="checkbox"></td>
     <td>Iterate violently <input type="checkbox"></td>
     <td>Experience art <input type="checkbox"></td>
-    <td>Visualise it <input type="checkbox"></td>
   </tr>
   <tr>
     <td>Play combat sports <input type="checkbox"></td>
     <td>Leave your phone at home <input type="checkbox"></td>
     <td>Notice patterns on a table <input type="checkbox"></td>
-    <td>Do great work <input type="checkbox"></td>
   </tr>
   <tr>
     <td>Act fast <input type="checkbox"></td>
     <td>Talk to strangers <input type="checkbox"></td>
-    <td>Write. Write. Write. Write more <input type="checkbox"></td>
     <td>Let it consume you <input type="checkbox"></td>
   </tr>
   <tr>
