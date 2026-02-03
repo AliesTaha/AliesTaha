@@ -15,7 +15,6 @@
     <td>Take something seriously <input type="checkbox"></td>
     <td>Plan for 15 minutes <input type="checkbox"></td>
     <td>Read ancient scripts <input type="checkbox"></td>
-    <td>Be real <input type="checkbox"></td>
   </tr>
   <tr>
     <td>Journal <input type="checkbox"></td>
@@ -27,7 +26,6 @@
     <td>Eat clean <input type="checkbox"></td>
     <td>Organise your desk <input type="checkbox"></td>
     <td>Read poetry <input type="checkbox"></td>
-    <td>Choose different <input type="checkbox"></td>
   </tr>
   <tr>
     <td>Sit alone <input type="checkbox"></td>
@@ -55,18 +53,15 @@
   </tr>
   <tr>
     <td>Value your time <input type="checkbox"></td>
-    <td>Walk to the grocery store <input type="checkbox"></td>
     <td>Refine your speech <input type="checkbox"></td>
     <td>Experience life <input type="checkbox"></td>
   </tr>
   <tr>
-    <td>Save a life <input type="checkbox"></td>
     <td>Craft reputation <input type="checkbox"></td>
     <td>Learn persuasion <input type="checkbox"></td>
     <td>Talk to people with respect <input type="checkbox"></td>
   </tr>
   <tr>
-    <td>Be different <input type="checkbox"></td>
     <td>Learn to code <input type="checkbox"></td>
     <td>Optimise for efficiency <input type="checkbox"></td>
     <td>Stop doing things that waste time <input type="checkbox"></td>
