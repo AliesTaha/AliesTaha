@@ -1,23 +1,3 @@
-```py
-    def __init__(self):
-        self.name = "ali taha"
-        self.education = "uwaterloo comp eng"
-        self.location = "california"
-        self.role = {
-            "curr": "gpu perf @ modular",
-            "prev": "ai @tesla, swe @ ford/blackberry"}
-
-    def moreInfo(self):
-        aboutMe = {
-            "currentFocus" : ["write kernels"],
-            "languages" : ["python", "c++", "c", "mojo"]
-        }
-        print(aboutMe)
-
-    def say_hi(self):
-        print("contact ali.taha@uwaterloo.ca")
-```
-
 <table>
   <tr>
     <th>Self-Improvement</th>
