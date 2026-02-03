@@ -1,11 +1,5 @@
 <table>
   <tr>
-    <th>Self-Improvement</th>
-    <th>Productivity</th>
-    <th>Creativity & Knowledge</th>
-    <th>Life Philosophy</th>
-  </tr>
-  <tr>
     <td>Read essays <input type="checkbox"></td>
     <td>Have a calendar <input type="checkbox"></td>
     <td>Read old books <input type="checkbox"></td>
