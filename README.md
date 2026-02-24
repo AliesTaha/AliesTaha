@@ -1,62 +1,9 @@
-<table>
-    <tr>
-    <td>Write. Write. Write. Write more <input type="checkbox"></td>
-    <td>Do great work <input type="checkbox"></td>
-    <td>Visualise it <input type="checkbox"></td>
-    <td>Value your time <input type="checkbox"></td>
-  </tr>
-  <tr>
-    <td>Optimise for efficiency <input type="checkbox"></td>
-    <td>Read essays <input type="checkbox"></td>
-    <td>Have a calendar <input type="checkbox"></td>
-    <td>Read old books <input type="checkbox"></td>
-  </tr>
-   <tr>
-    <td>Learn to code <input type="checkbox"></td>
-    <td>Act sincere <input type="checkbox"></td>
-    <td>Follow your intuition <input type="checkbox"></td>
-    <td>Rejections aren't permanent <input type="checkbox"></td>
-  </tr>
-  <tr>
-    <td>Experience life <input type="checkbox"></td>
-    <td>Maintain a todo list <input type="checkbox"></td>
-    <td>Help people <input type="checkbox"></td>
-    <td>Visit bookstores <input type="checkbox"></td>
-  </tr>
-  <tr>
-    <td>Refine your speech <input type="checkbox"></td>
-    <td>Take something seriously <input type="checkbox"></td>
-    <td>Plan for 15 minutes <input type="checkbox"></td>
-    <td>Read ancient scripts <input type="checkbox"></td>
-  </tr>
-  <tr>
-    <td>Craft reputation <input type="checkbox"></td>
-    <td>Journal <input type="checkbox"></td>
-    <td>Systemise your day <input type="checkbox"></td>
-    <td>Discard the useless <input type="checkbox"></td>
-  </tr>
-  <tr>
-    <td>Learn persuasion <input type="checkbox"></td>
-    <td>Eat clean <input type="checkbox"></td>
-    <td>Organise your desk <input type="checkbox"></td>
-    <td>Read poetry <input type="checkbox"></td>
-  </tr>
-  <tr>
-    <td>Act fast <input type="checkbox"></td>
-    <td>Sit alone <input type="checkbox"></td>
-    <td>Execute <input type="checkbox"></td>
-    <td>Invite what aligns <input type="checkbox"></td>
-  </tr>
-  <tr>
-    <td>Let it consume you <input type="checkbox"></td>
-    <td>Stay composed <input type="checkbox"></td>
-    <td>Iterate violently <input type="checkbox"></td>
-    <td>Experience art <input type="checkbox"></td>
-  </tr>
-  <tr>
-    <td>Talk to strangers <input type="checkbox"></td>
-    <td>Play combat sports <input type="checkbox"></td>
-    <td>Leave your phone at home <input type="checkbox"></td>
-    <td>Notice patterns on a table <input type="checkbox"></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="ali taha" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="assets/card.svg" width="100%" alt="principles" />
+</div>
