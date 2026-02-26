@@ -1,0 +1,86 @@
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        .banner {
+          position: relative;
+          width: 100%;
+          height: 200px;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+          border-radius: 10px;
+          background: linear-gradient(135deg, #FAF0E6 0%, #F0E4D4 50%, #E8D5C0 100%);
+          overflow: hidden;
+        }
+        .orb {
+          position: absolute;
+          border-radius: 50%;
+        }
+        .orb-1 {
+          width: 160px; height: 160px;
+          background: #D4B896; opacity: 0.15;
+          top: -40px; left: 60px;
+        }
+        .orb-2 {
+          width: 200px; height: 200px;
+          background: #C9A882; opacity: 0.1;
+          bottom: -60px; right: 40px;
+        }
+        .orb-3 {
+          width: 80px; height: 80px;
+          background: #C9956B; opacity: 0.08;
+          top: 20px; right: 150px;
+        }
+        .content {
+          position: relative;
+          z-index: 1;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+        }
+        .name {
+          font-size: 52px;
+          color: #2C1810;
+          letter-spacing: 8px;
+          font-weight: normal;
+        }
+        .rule {
+          width: 160px; height: 1px;
+          background: #C9956B;
+          opacity: 0.5;
+          margin: 18px 0;
+        }
+        .tagline {
+          font-size: 13px;
+          color: #8B7355;
+          letter-spacing: 5px;
+        }
+        @media (prefers-color-scheme: dark) {
+          .banner {
+            background: linear-gradient(135deg, #2D1F14 0%, #231812 50%, #1A1210 100%);
+          }
+          .orb-1 { background: #3A2A1E; opacity: 0.3; }
+          .orb-2 { background: #4A3828; opacity: 0.2; }
+          .orb-3 { background: #5A4838; opacity: 0.15; }
+          .name { color: #F5E6D3; }
+          .rule { background: #8B6914; }
+          .tagline { color: #A0845C; }
+        }
+      </style>
+      <div class="banner">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
+        <div class="content">
+          <div class="name">ali taha</div>
+          <div class="rule"></div>
+          <div class="tagline">write · build · think</div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
