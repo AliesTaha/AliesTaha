@@ -2,6 +2,7 @@
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&amp;display=swap');
         * { margin: 0; padding: 0; box-sizing: border-box; }
         .banner {
           position: relative;
@@ -11,29 +12,18 @@
           flex-direction: column;
           align-items: center;
           justify-content: center;
-          font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
-          border-radius: 10px;
-          background: linear-gradient(135deg, #FAF0E6 0%, #F0E4D4 50%, #E8D5C0 100%);
+          font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+          border-radius: 12px;
+          background: #f5f1e8;
+          border: 1px solid rgba(0,0,0,0.1);
           overflow: hidden;
         }
-        .orb {
+        .gradient {
           position: absolute;
-          border-radius: 50%;
-        }
-        .orb-1 {
-          width: 160px; height: 160px;
-          background: #D4B896; opacity: 0.15;
-          top: -40px; left: 60px;
-        }
-        .orb-2 {
-          width: 200px; height: 200px;
-          background: #C9A882; opacity: 0.1;
-          bottom: -60px; right: 40px;
-        }
-        .orb-3 {
-          width: 80px; height: 80px;
-          background: #C9956B; opacity: 0.08;
-          top: 20px; right: 150px;
+          top: 0; left: 0; right: 0; bottom: 0;
+          background:
+            radial-gradient(ellipse at 20% 50%, rgba(210, 200, 180, 0.3), transparent 60%),
+            radial-gradient(ellipse at 80% 80%, rgba(230, 220, 200, 0.2), transparent 50%);
         }
         .content {
           position: relative;
@@ -43,38 +33,40 @@
           align-items: center;
         }
         .name {
-          font-size: 52px;
-          color: #2C1810;
-          letter-spacing: 8px;
-          font-weight: normal;
+          font-size: 48px;
+          color: #1a1a1a;
+          letter-spacing: 6px;
+          font-weight: 300;
         }
         .rule {
-          width: 160px; height: 1px;
-          background: #C9956B;
-          opacity: 0.5;
-          margin: 18px 0;
+          width: 140px;
+          height: 1px;
+          background: rgba(0,0,0,0.12);
+          margin: 16px 0;
         }
         .tagline {
           font-size: 13px;
-          color: #8B7355;
-          letter-spacing: 5px;
+          color: #888;
+          letter-spacing: 4px;
+          font-weight: 400;
         }
         @media (prefers-color-scheme: dark) {
           .banner {
-            background: linear-gradient(135deg, #2D1F14 0%, #231812 50%, #1A1210 100%);
+            background: #1e1c18;
+            border-color: rgba(255,255,255,0.08);
           }
-          .orb-1 { background: #3A2A1E; opacity: 0.3; }
-          .orb-2 { background: #4A3828; opacity: 0.2; }
-          .orb-3 { background: #5A4838; opacity: 0.15; }
-          .name { color: #F5E6D3; }
-          .rule { background: #8B6914; }
-          .tagline { color: #A0845C; }
+          .gradient {
+            background:
+              radial-gradient(ellipse at 20% 50%, rgba(60, 55, 45, 0.4), transparent 60%),
+              radial-gradient(ellipse at 80% 80%, rgba(50, 45, 35, 0.3), transparent 50%);
+          }
+          .name { color: #e8e4df; }
+          .rule { background: rgba(255,255,255,0.1); }
+          .tagline { color: #777; }
         }
       </style>
       <div class="banner">
-        <div class="orb orb-1"></div>
-        <div class="orb orb-2"></div>
-        <div class="orb orb-3"></div>
+        <div class="gradient"></div>
         <div class="content">
           <div class="name">ali taha</div>
           <div class="rule"></div>

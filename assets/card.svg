@@ -1,77 +1,122 @@
-<svg fill="none" viewBox="0 0 800 640" width="800" height="640" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 800 660" width="800" height="660" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&amp;display=swap');
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        .card {
+        .window {
           width: 100%;
-          padding: 44px 60px;
-          font-family: Georgia, 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
-          background: #FDFAF7;
-          border: 1px solid #E8D5C0;
-          border-radius: 10px;
+          background: rgba(255,255,255,0.98);
+          border-radius: 12px;
+          border: 1px solid rgba(0,0,0,0.1);
+          overflow: hidden;
+          font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
         }
-        .section { margin-bottom: 32px; }
+        .titlebar {
+          height: 40px;
+          background: rgba(245, 241, 232, 0.95);
+          border-bottom: 1px solid rgba(0,0,0,0.08);
+          display: flex;
+          align-items: center;
+          padding: 0 16px;
+          position: relative;
+        }
+        .buttons { display: flex; gap: 8px; }
+        .btn {
+          width: 12px; height: 12px;
+          border-radius: 50%;
+          display: inline-block;
+        }
+        .close { background: #ff5f57; }
+        .minimize { background: #ffbd2e; }
+        .maximize { background: #28c840; }
+        .title {
+          position: absolute;
+          left: 50%;
+          transform: translateX(-50%);
+          font-size: 13px;
+          font-weight: 500;
+          color: #1a1a1a;
+        }
+        .body { padding: 36px 50px; }
+        .section { margin-bottom: 28px; }
         .section:last-child { margin-bottom: 0; }
         .label {
           font-size: 11px;
-          letter-spacing: 3.5px;
+          letter-spacing: 3px;
           text-transform: uppercase;
-          color: #A0845C;
+          color: #999;
           margin-bottom: 10px;
+          font-weight: 400;
         }
         .items {
-          font-size: 14.5px;
+          font-size: 14px;
           line-height: 1.9;
-          color: #3C2415;
+          color: #1a1a1a;
           letter-spacing: 0.2px;
+          font-weight: 300;
         }
-        .s { color: #C9956B; margin: 0 3px; }
+        .d { color: #ccc; margin: 0 3px; }
         @media (prefers-color-scheme: dark) {
-          .card {
-            background: #1C1410;
-            border-color: #3A2A1E;
+          .window {
+            background: #1e1c18;
+            border-color: rgba(255,255,255,0.08);
           }
-          .label { color: #A0845C; }
-          .items { color: #D4C4B0; }
-          .s { color: #6B5540; }
+          .titlebar {
+            background: #252220;
+            border-bottom-color: rgba(255,255,255,0.06);
+          }
+          .title { color: #e8e4df; }
+          .label { color: #777; }
+          .items { color: #d4cfc8; }
+          .d { color: #444; }
         }
       </style>
-      <div class="card">
-        <div class="section">
-          <div class="label">craft</div>
-          <div class="items">
-            write more <span class="s">·</span> do great work <span class="s">·</span> learn to code <span class="s">·</span> take something seriously<br/>
-            let it consume you <span class="s">·</span> iterate violently <span class="s">·</span> execute <span class="s">·</span> act fast
+      <div class="window">
+        <div class="titlebar">
+          <div class="buttons">
+            <span class="btn close"></span>
+            <span class="btn minimize"></span>
+            <span class="btn maximize"></span>
           </div>
+          <div class="title">principles</div>
         </div>
-        <div class="section">
-          <div class="label">mind</div>
-          <div class="items">
-            read essays <span class="s">·</span> read old books <span class="s">·</span> read ancient scripts <span class="s">·</span> read poetry<br/>
-            journal <span class="s">·</span> sit alone <span class="s">·</span> follow your intuition <span class="s">·</span> plan for 15 minutes
+        <div class="body">
+          <div class="section">
+            <div class="label">craft</div>
+            <div class="items">
+              write more <span class="d">·</span> do great work <span class="d">·</span> learn to code <span class="d">·</span> take something seriously<br/>
+              let it consume you <span class="d">·</span> iterate violently <span class="d">·</span> execute <span class="d">·</span> act fast
+            </div>
           </div>
-        </div>
-        <div class="section">
-          <div class="label">presence</div>
-          <div class="items">
-            act sincere <span class="s">·</span> refine your speech <span class="s">·</span> stay composed <span class="s">·</span> learn persuasion<br/>
-            craft reputation <span class="s">·</span> talk to strangers <span class="s">·</span> help people
+          <div class="section">
+            <div class="label">mind</div>
+            <div class="items">
+              read essays <span class="d">·</span> read old books <span class="d">·</span> read ancient scripts <span class="d">·</span> read poetry<br/>
+              journal <span class="d">·</span> sit alone <span class="d">·</span> follow your intuition <span class="d">·</span> plan for 15 minutes
+            </div>
           </div>
-        </div>
-        <div class="section">
-          <div class="label">rhythm</div>
-          <div class="items">
-            optimise for efficiency <span class="s">·</span> systemise your day <span class="s">·</span> have a calendar <span class="s">·</span> value your time<br/>
-            maintain a todo list <span class="s">·</span> organise your desk <span class="s">·</span> discard the useless
+          <div class="section">
+            <div class="label">presence</div>
+            <div class="items">
+              act sincere <span class="d">·</span> refine your speech <span class="d">·</span> stay composed <span class="d">·</span> learn persuasion<br/>
+              craft reputation <span class="d">·</span> talk to strangers <span class="d">·</span> help people
+            </div>
           </div>
-        </div>
-        <div class="section">
-          <div class="label">life</div>
-          <div class="items">
-            experience life <span class="s">·</span> experience art <span class="s">·</span> visit bookstores <span class="s">·</span> eat clean<br/>
-            play combat sports <span class="s">·</span> leave your phone at home <span class="s">·</span> visualise it<br/>
-            notice patterns <span class="s">·</span> invite what aligns <span class="s">·</span> rejections aren't permanent
+          <div class="section">
+            <div class="label">rhythm</div>
+            <div class="items">
+              optimise for efficiency <span class="d">·</span> systemise your day <span class="d">·</span> have a calendar <span class="d">·</span> value your time<br/>
+              maintain a todo list <span class="d">·</span> organise your desk <span class="d">·</span> discard the useless
+            </div>
+          </div>
+          <div class="section">
+            <div class="label">life</div>
+            <div class="items">
+              experience life <span class="d">·</span> experience art <span class="d">·</span> visit bookstores <span class="d">·</span> eat clean<br/>
+              play combat sports <span class="d">·</span> leave your phone at home <span class="d">·</span> visualise it<br/>
+              notice patterns <span class="d">·</span> invite what aligns <span class="d">·</span> rejections aren't permanent
+            </div>
           </div>
         </div>
       </div>
