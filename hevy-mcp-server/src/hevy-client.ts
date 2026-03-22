@@ -113,7 +113,7 @@ export class HevyClient {
 
   async createExerciseTemplate(template: any) {
     return this.request<any>("POST", "/exercise_templates", {
-      exercise_template: template,
+      exercise: template,
     });
   }
 
@@ -126,7 +126,7 @@ export class HevyClient {
   ) {
     return this.request<any>(
       "GET",
-      `/exercise_templates/${exerciseTemplateId}/history`,
+      `/exercise_history/${exerciseTemplateId}`,
       undefined,
       { page: String(page), pageSize: String(pageSize) }
     );

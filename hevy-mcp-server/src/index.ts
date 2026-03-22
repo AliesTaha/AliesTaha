@@ -252,23 +252,24 @@ server.tool(
   {
     title: z.string().describe("Exercise name"),
     exercise_type: z
-      .enum(["weight_reps", "bodyweight_reps", "weighted_bodyweight", "assisted_bodyweight", "duration", "distance_duration", "weight_distance"])
+      .enum(["weight_reps", "reps_only", "bodyweight_reps", "bodyweight_assisted_reps", "duration", "weight_duration", "distance_duration", "short_distance_weight"])
       .describe("Type of exercise"),
     primary_muscle_group: z
       .enum([
-        "chest", "back", "shoulders", "biceps", "triceps", "forearms",
-        "core", "quadriceps", "hamstrings", "glutes", "calves",
-        "cardio", "other", "full_body",
+        "abdominals", "shoulders", "biceps", "triceps", "forearms",
+        "quadriceps", "hamstrings", "calves", "glutes", "abductors",
+        "adductors", "lats", "upper_back", "traps", "lower_back",
+        "chest", "cardio", "neck", "full_body", "other",
       ])
       .describe("Primary muscle group"),
     secondary_muscle_groups: z
       .array(z.string())
       .optional()
-      .describe("Secondary muscle groups"),
+      .describe("Secondary muscle groups (same enum values as primary)"),
     equipment: z
       .enum([
-        "barbell", "dumbbell", "machine", "cable", "bodyweight",
-        "band", "kettlebell", "other", "none",
+        "none", "barbell", "dumbbell", "kettlebell", "machine",
+        "plate", "resistance_band", "suspension", "other",
       ])
       .optional()
       .describe("Equipment used"),
